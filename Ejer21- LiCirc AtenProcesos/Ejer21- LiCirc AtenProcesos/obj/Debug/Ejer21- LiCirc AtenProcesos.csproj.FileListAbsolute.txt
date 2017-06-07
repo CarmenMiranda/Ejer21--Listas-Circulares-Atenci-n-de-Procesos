@@ -1,0 +1,18 @@
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer21- LiCirc AtenProcesos\Ejer21- LiCirc AtenProcesos\bin\Debug\Ejer21- LiCirc AtenProcesos.exe.config
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer21- LiCirc AtenProcesos\Ejer21- LiCirc AtenProcesos\bin\Debug\Ejer21- LiCirc AtenProcesos.exe
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer21- LiCirc AtenProcesos\Ejer21- LiCirc AtenProcesos\bin\Debug\Ejer21- LiCirc AtenProcesos.pdb
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer21- LiCirc AtenProcesos\Ejer21- LiCirc AtenProcesos\obj\Debug\Ejer21- LiCirc AtenProcesos.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer21- LiCirc AtenProcesos\Ejer21- LiCirc AtenProcesos\obj\Debug\Ejer21__LiCirc_AtenProcesos.Form1.resources
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer21- LiCirc AtenProcesos\Ejer21- LiCirc AtenProcesos\obj\Debug\Ejer21__LiCirc_AtenProcesos.Properties.Resources.resources
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer21- LiCirc AtenProcesos\Ejer21- LiCirc AtenProcesos\obj\Debug\Ejer21- LiCirc AtenProcesos.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer21- LiCirc AtenProcesos\Ejer21- LiCirc AtenProcesos\obj\Debug\Ejer21- LiCirc AtenProcesos.exe
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer21- LiCirc AtenProcesos\Ejer21- LiCirc AtenProcesos\obj\Debug\Ejer21- LiCirc AtenProcesos.pdb
+E:\Estructura de datos\2da Parcial\Ejer21- LiCirc AtenProcesos\Ejer21- LiCirc AtenProcesos\bin\Debug\Ejer21- LiCirc AtenProcesos.exe.config
+E:\Estructura de datos\2da Parcial\Ejer21- LiCirc AtenProcesos\Ejer21- LiCirc AtenProcesos\obj\Debug\Ejer21- LiCirc AtenProcesos.exe
+E:\Estructura de datos\2da Parcial\Ejer21- LiCirc AtenProcesos\Ejer21- LiCirc AtenProcesos\obj\Debug\Ejer21- LiCirc AtenProcesos.pdb
+E:\Estructura de datos\2da Parcial\Ejer21- LiCirc AtenProcesos\Ejer21- LiCirc AtenProcesos\bin\Debug\Ejer21- LiCirc AtenProcesos.exe
+E:\Estructura de datos\2da Parcial\Ejer21- LiCirc AtenProcesos\Ejer21- LiCirc AtenProcesos\bin\Debug\Ejer21- LiCirc AtenProcesos.pdb
+E:\Estructura de datos\2da Parcial\Ejer21- LiCirc AtenProcesos\Ejer21- LiCirc AtenProcesos\obj\Debug\Ejer21- LiCirc AtenProcesos.csprojResolveAssemblyReference.cache
+E:\Estructura de datos\2da Parcial\Ejer21- LiCirc AtenProcesos\Ejer21- LiCirc AtenProcesos\obj\Debug\Ejer21__LiCirc_AtenProcesos.Form1.resources
+E:\Estructura de datos\2da Parcial\Ejer21- LiCirc AtenProcesos\Ejer21- LiCirc AtenProcesos\obj\Debug\Ejer21__LiCirc_AtenProcesos.Properties.Resources.resources
+E:\Estructura de datos\2da Parcial\Ejer21- LiCirc AtenProcesos\Ejer21- LiCirc AtenProcesos\obj\Debug\Ejer21- LiCirc AtenProcesos.csproj.GenerateResource.Cache
